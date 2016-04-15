@@ -1,5 +1,3 @@
-package com.example.andy.internetdictionary;
-
 /**
  * Created by andy on 1/23/2016.
  */
